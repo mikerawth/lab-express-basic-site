@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(77, 218, 206);
+  color: rgb(94, 94, 94);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.list-style-none {
+  list-style-type: none;
+}
+
+.text-decoration-none a {
+  text-decoration: none;
+}
